@@ -1,0 +1,40 @@
+body {
+  margin: 0 auto;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  height: 30px;
+  text-align: center;
+  vertical-align: center;
+}
+table {
+  margin: 0 auto;
+}
+​ table,
+th,
+td {
+  border: 1px solid black;
+  height: 30px;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+  padding: 5px;
+}
+
+.form {
+  margin-top: 20px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+#content {
+  margin: 0 auto;
+  text-align: left;
+
+  width: 70%;
+}
