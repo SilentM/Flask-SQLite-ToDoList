@@ -1,2 +1,2 @@
 # Flask-SQLite-ToDoList
-https://flaskmytodolist.herokuapp.com/
+To-Do List Web Application hosted on Heroku: https://flaskmytodolist.herokuapp.com/
